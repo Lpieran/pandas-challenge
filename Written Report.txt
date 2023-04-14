@@ -1,0 +1,10 @@
+Analysis Report
+
+	Based on student funding and standardized test scores for reading and math from different schools. The school budgets and the number of students per school were also factors that were taken into consideration for student performance.
+
+The analysis showed that:
+ -Smaller schools had a higher overall passing rate (89.88%) than larger schools (58.28%).
+ -Charter schools had a higher overall passing rate (90.43%) than district schools (53.67%).
+ -Spending per student, schools that spent less than <$585 had a higher overall passing rate (90.36%) than schools that spent more than $585-$630 	(81.41%), $630-$645 (62.85%) and $645-$680 (53.52%) respectively. 
+
+	In conclusion, this analysis suggests that the size of the school as well as the type of school (charter or district) may have an impact on student performance. The spending per student correlation to the performance could be because of the quality of education at the schools or because students are more efficient with their resources and therefore less spending needs to be done on behalf of the school. Further analysis could be done to examine these factors that may contribute to student success.
